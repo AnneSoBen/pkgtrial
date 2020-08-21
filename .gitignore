@@ -1,5 +1,4 @@
 pkgtrial.Rproj
 .Rproj*
 inst/doc
-docs
-
+docs/*
