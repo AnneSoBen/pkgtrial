@@ -2,6 +2,7 @@
 # pkgtrial
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.com/AnneSoBen/pkgtrial.svg?branch=master)](https://travis-ci.com/AnneSoBen/pkgtrial)
 <!-- badges: end -->
 
 The goal of pkgtrial is to ...

@@ -11,7 +11,7 @@
 #' heatmap(cor(dat))
 #' @export
 mvrnormR <- function(n, p, rho) {
-
+  # let's add a little comment heres
   # covariance between Z_i and Z_j being rho^|i-j|
   times <- 1:p # used for creating covariance matrix
   H <- abs(outer(times, times, "-"))
