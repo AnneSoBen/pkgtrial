@@ -1,4 +1,4 @@
-pkgtrial.Rproj
-.Rproj*
 inst/doc
 docs/*
+.Rproj.user
+docs

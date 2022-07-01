@@ -1,3 +1,4 @@
-development:
-  mode: auto
+url: https://annesoben.github.io/pkgtrial/
+template:
+  bootstrap: 5
 
