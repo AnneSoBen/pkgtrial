@@ -1,9 +1,9 @@
 pandoc: 2.14.2
-pkgdown: 2.0.5
+pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
   package_intro: package_intro.html
-last_built: 2022-07-01T10:05Z
+last_built: 2022-09-01T11:18Z
 urls:
   reference: https://annesoben.github.io/pkgtrial/reference
   article: https://annesoben.github.io/pkgtrial/articles
