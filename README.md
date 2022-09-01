@@ -24,3 +24,5 @@ library(pkgtrial)
 ## basic example code
 ```
 
+test test
+
